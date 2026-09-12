@@ -1,4 +1,4 @@
-//problem 1) 3414. Maximum Score of Non-overlapping Intervals
+//problem 1) 3. Longest Substring Without Repeating Characters
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
